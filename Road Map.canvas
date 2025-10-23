@@ -25,8 +25,7 @@
 		{"id":"15506fa2b5e39593","type":"text","text":"# Crates Information \n\n**Common Crate**\n****\n**Uncommon Crate**\n****\n**Rare Crate**\n****\n**Epic Crate**\n****\n**Legendary Crate**\n****\n","x":-380,"y":1780,"width":379,"height":480,"color":"5"},
 		{"id":"b5730507315d4443","type":"file","file":"Phase 1/Starting Tactic.md","x":25,"y":325,"width":360,"height":290,"color":"4"},
 		{"id":"dbf96a3f009dd2fb","type":"file","file":"Phase 1/Book Keeper Lv. 1 & Lv. 2.md","x":398,"y":-100,"width":367,"height":340},
-		{"id":"747ed6a243b4973c","type":"text","text":"# Class Selection ","x":65,"y":-180,"width":220,"height":60,"color":"4"},
-		{"id":"652961dfe38c2d14","x":535,"y":1520,"width":1220,"height":1077,"type":"link","url":"Http://example.com"}
+		{"id":"747ed6a243b4973c","type":"text","text":"# Class Selection ","x":65,"y":-180,"width":220,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"c7cbff515fb64d70","fromNode":"2550577ae1c1fe9b","fromSide":"left","toNode":"4fb34c8f95d14d4a","toSide":"right","color":"1"},
