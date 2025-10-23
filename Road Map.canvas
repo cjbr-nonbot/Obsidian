@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"9cfd6ac409e3ec2b","type":"group","x":-400,"y":-800,"width":1585,"height":2210,"color":"4","label":"Phase 1"},
 		{"id":"971162be08d00c60","type":"group","x":-400,"y":-1400,"width":260,"height":500,"color":"5","label":"Color Code"},
-		{"id":"652961dfe38c2d14","x":1602,"y":2082,"width":400,"height":400,"type":"link","url":"Http://Youtube.com"},
 		{"id":"10c1e9eb5af5149d","type":"text","text":"### **Miner**","x":75,"y":660,"width":110,"height":50,"color":"4"},
 		{"id":"ca5c4e64d2d36130","type":"text","text":"### **Farmer**","x":-55,"y":660,"width":120,"height":50,"color":"4"},
 		{"id":"4fb34c8f95d14d4a","type":"text","text":",\n~~They~~ Press the Exit Button\nand then the ui re opens until they accept the rules ","x":-206,"y":-302,"width":220,"height":75,"color":"1"},
@@ -26,7 +25,8 @@
 		{"id":"15506fa2b5e39593","type":"text","text":"# Crates Information \n\n**Common Crate**\n****\n**Uncommon Crate**\n****\n**Rare Crate**\n****\n**Epic Crate**\n****\n**Legendary Crate**\n****\n","x":-380,"y":1780,"width":379,"height":480,"color":"5"},
 		{"id":"b5730507315d4443","type":"file","file":"Phase 1/Starting Tactic.md","x":25,"y":325,"width":360,"height":290,"color":"4"},
 		{"id":"dbf96a3f009dd2fb","type":"file","file":"Phase 1/Book Keeper Lv. 1 & Lv. 2.md","x":398,"y":-100,"width":367,"height":340},
-		{"id":"747ed6a243b4973c","type":"text","text":"# Class Selection ","x":65,"y":-180,"width":220,"height":60,"color":"4"}
+		{"id":"747ed6a243b4973c","type":"text","text":"# Class Selection ","x":65,"y":-180,"width":220,"height":60,"color":"4"},
+		{"id":"652961dfe38c2d14","x":535,"y":1520,"width":1220,"height":1077,"type":"link","url":"Http://example.com"}
 	],
 	"edges":[
 		{"id":"c7cbff515fb64d70","fromNode":"2550577ae1c1fe9b","fromSide":"left","toNode":"4fb34c8f95d14d4a","toSide":"right","color":"1"},
