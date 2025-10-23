@@ -3,3 +3,5 @@
 ****
 ### Lv. 2
 **==1x Enchanting Table==** ( Obvious use ) **==13x Bottle of Xp==** ( For enchanting )
+
+#- [[Starting Tactic]]

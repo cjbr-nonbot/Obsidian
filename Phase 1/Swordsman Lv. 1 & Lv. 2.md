@@ -3,3 +3,5 @@
 ****
 ### Lv. 2
 **==1x Shield==** ( custom maybe ) **==24x Iron Ingots==** ( can be used for armor or tools )
+
+#- [[Starting Tactic]]

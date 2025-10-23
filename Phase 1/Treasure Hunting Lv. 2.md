@@ -4,3 +4,5 @@
 #### Metal Detector Shop
 #### Gem market Unlocked 
 ### Class Lv. 2 Unlocked
+
+#- only class that can use [[Treasure Hunting Lv. 2]]

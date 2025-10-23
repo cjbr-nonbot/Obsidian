@@ -3,3 +3,5 @@
  ****
 ### Lv. 2 
 **==1x Healing Spell==**, **==24x Iron Ingots==** ( can be used for tools or armor )
+
+#- [[Starting Tactic]]
