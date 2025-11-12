@@ -1,1 +1,0 @@
-The player after reaching level 2 of their desired tactic or tactics will unlock the **PvP Arena**, **1v1s**, **Leaderboards** and **Crates**.
