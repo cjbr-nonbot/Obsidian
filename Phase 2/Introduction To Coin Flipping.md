@@ -1,0 +1,1 @@
+The player will be introduced to the Coin Flipping mechanic it will most likely be by a **Gui** as they look the nicest 
