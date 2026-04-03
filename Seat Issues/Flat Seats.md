@@ -1,1 +1,0 @@
-Many people complain about the seats being flat 
