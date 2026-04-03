@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f6b4125c13c5a5d9","x":-907,"y":-257,"width":400,"height":400,"type":"file","file":"Features.md"},
+		{"id":"222a9fed43eda7e3","x":-660,"y":-400,"width":180,"height":60,"color":"#ac47ff","type":"text","text":"# Notes App\n"}
+	],
+	"edges":[
+		{"id":"e433a3851d97afd9","fromNode":"222a9fed43eda7e3","fromSide":"bottom","toNode":"f6b4125c13c5a5d9","toSide":"top"}
+	]
+}
